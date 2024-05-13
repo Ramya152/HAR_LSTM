@@ -1,2 +1,2 @@
 # Human_Activity_Recognition_App
-The model works well but the problem is integrating it with an application on mobile.... 
+The model works well , gotta integrate it with a mobile app
